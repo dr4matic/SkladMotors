@@ -1,0 +1,11 @@
+D:\Repository\SkladMotorov.Context.Contracts\obj\Debug\net6.0\SkladMotorov.Context.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repository\SkladMotorov.Context.Contracts\obj\Debug\net6.0\SkladMotorov.Context.Contracts.AssemblyInfoInputs.cache
+D:\Repository\SkladMotorov.Context.Contracts\obj\Debug\net6.0\SkladMotorov.Context.Contracts.AssemblyInfo.cs
+D:\Repository\SkladMotorov.Context.Contracts\obj\Debug\net6.0\SkladMotorov.Context.Contracts.csproj.CoreCompileInputs.cache
+D:\Repository\SkladMotorov.Context.Contracts\bin\Debug\net6.0\SkladMotorov.Context.Contracts.deps.json
+D:\Repository\SkladMotorov.Context.Contracts\bin\Debug\net6.0\SkladMotorov.Context.Contracts.dll
+D:\Repository\SkladMotorov.Context.Contracts\bin\Debug\net6.0\SkladMotorov.Context.Contracts.pdb
+D:\Repository\SkladMotorov.Context.Contracts\obj\Debug\net6.0\SkladMotorov.Context.Contracts.dll
+D:\Repository\SkladMotorov.Context.Contracts\obj\Debug\net6.0\refint\SkladMotorov.Context.Contracts.dll
+D:\Repository\SkladMotorov.Context.Contracts\obj\Debug\net6.0\SkladMotorov.Context.Contracts.pdb
+D:\Repository\SkladMotorov.Context.Contracts\obj\Debug\net6.0\ref\SkladMotorov.Context.Contracts.dll
