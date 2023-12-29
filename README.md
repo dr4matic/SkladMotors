@@ -4,7 +4,7 @@
 ---------------------------------
 Тема: Web API-Склад моторов
 ---------------------------------
-![image](https://github.com/dr4matic/SkladMotors/assets/104574470/c99aa8f6-0a32-4e27-a2a6-69697959bfb2)
+![image](https://github.com/dr4matic/SkladMotors/assets/104574470/fa2faa3d-e18d-49fe-beac-fb1b3225dadd)
 ---------------------------------
 ```mermaid
 erDiagram
