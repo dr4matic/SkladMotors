@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "NJKbOwNIfmCvyr9TjgRad8pNBqHFlrU5XTXz+GKEUFQ=",
+  "Source": "SkladMotorov.API",
+  "BasePath": "_content/SkladMotorov.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

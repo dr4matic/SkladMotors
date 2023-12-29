@@ -1,0 +1,15 @@
+D:\Repository\SkladMotorov.Context\obj\Debug\net6.0\SkladMotorov.Context.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repository\SkladMotorov.Context\obj\Debug\net6.0\SkladMotorov.Context.AssemblyInfoInputs.cache
+D:\Repository\SkladMotorov.Context\obj\Debug\net6.0\SkladMotorov.Context.AssemblyInfo.cs
+D:\Repository\SkladMotorov.Context\obj\Debug\net6.0\SkladMotorov.Context.csproj.CoreCompileInputs.cache
+D:\Repository\SkladMotorov.Context\bin\Debug\net6.0\SkladMotorov.Context.deps.json
+D:\Repository\SkladMotorov.Context\bin\Debug\net6.0\SkladMotorov.Context.dll
+D:\Repository\SkladMotorov.Context\bin\Debug\net6.0\SkladMotorov.Context.pdb
+D:\Repository\SkladMotorov.Context\bin\Debug\net6.0\SkladMotorov.Context.Contracts.dll
+D:\Repository\SkladMotorov.Context\bin\Debug\net6.0\SkladMotorov.Context.Contracts.pdb
+D:\Repository\SkladMotorov.Context\obj\Debug\net6.0\SkladMotorov.Context.csproj.AssemblyReference.cache
+D:\Repository\SkladMotorov.Context\obj\Debug\net6.0\SkladMotorov.Context.csproj.CopyComplete
+D:\Repository\SkladMotorov.Context\obj\Debug\net6.0\SkladMotorov.Context.dll
+D:\Repository\SkladMotorov.Context\obj\Debug\net6.0\refint\SkladMotorov.Context.dll
+D:\Repository\SkladMotorov.Context\obj\Debug\net6.0\SkladMotorov.Context.pdb
+D:\Repository\SkladMotorov.Context\obj\Debug\net6.0\ref\SkladMotorov.Context.dll

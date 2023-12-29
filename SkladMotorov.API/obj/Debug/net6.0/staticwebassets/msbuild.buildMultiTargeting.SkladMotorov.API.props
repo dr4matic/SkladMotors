@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\SkladMotorov.API.props" />
+</Project>

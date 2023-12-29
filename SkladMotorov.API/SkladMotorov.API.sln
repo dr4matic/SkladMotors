@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkladMotorov.API", "SkladMotorov.API.csproj", "{D81A8966-CFEA-4E22-BB58-91B30CB45599}"
+	ProjectSection(ProjectDependencies) = postProject
+		{CC19ED77-FC3D-4E3C-8225-FF597E5501E1} = {CC19ED77-FC3D-4E3C-8225-FF597E5501E1}
+		{EDF8622D-B43B-43B2-B003-36FD85FCB36C} = {EDF8622D-B43B-43B2-B003-36FD85FCB36C}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkladMotorov.Context", "..\SkladMotorov.Context\SkladMotorov.Context.csproj", "{EDF8622D-B43B-43B2-B003-36FD85FCB36C}"
+	ProjectSection(ProjectDependencies) = postProject
+		{CC19ED77-FC3D-4E3C-8225-FF597E5501E1} = {CC19ED77-FC3D-4E3C-8225-FF597E5501E1}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkladMotorov.Context.Contracts", "..\SkladMotorov.Context.Contracts\SkladMotorov.Context.Contracts.csproj", "{CC19ED77-FC3D-4E3C-8225-FF597E5501E1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D81A8966-CFEA-4E22-BB58-91B30CB45599}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D81A8966-CFEA-4E22-BB58-91B30CB45599}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D81A8966-CFEA-4E22-BB58-91B30CB45599}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D81A8966-CFEA-4E22-BB58-91B30CB45599}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDF8622D-B43B-43B2-B003-36FD85FCB36C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDF8622D-B43B-43B2-B003-36FD85FCB36C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDF8622D-B43B-43B2-B003-36FD85FCB36C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDF8622D-B43B-43B2-B003-36FD85FCB36C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC19ED77-FC3D-4E3C-8225-FF597E5501E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC19ED77-FC3D-4E3C-8225-FF597E5501E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC19ED77-FC3D-4E3C-8225-FF597E5501E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC19ED77-FC3D-4E3C-8225-FF597E5501E1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE273B03-AB7E-43A3-B017-7E2D26D4253D}
+	EndGlobalSection
+EndGlobal
